@@ -1,6 +1,6 @@
-# todo_app2
+# TaskTrek (ToDo App)
 
-A new Flutter project.
+A simple ToDo App created using Flutter.
 
 ## Getting Started
 
